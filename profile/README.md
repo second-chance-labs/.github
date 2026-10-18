@@ -1,1 +1,1 @@
-making tooling to research mathematics & quantitative trading
+Engineering tooling to optimize mathematics & quantitative trading research
